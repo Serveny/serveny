@@ -1,10 +1,31 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/serveny/serveny/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/serveny/serveny/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/serveny/serveny/output/pacman-contribution-graph.svg">
+</picture>
+
 <div align="center">
-  <a href="https://www.youtube.com/@Serveny"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
-  <a href="https://soundcloud.com/serveny"><img src="https://img.shields.io/static/v1?message=SoundCloud&logo=soundcloud&label=&color=ff5500&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="soundcloud logo"  />
+  <a href="https://www.youtube.com/@Serveny"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" /></a>
+  <a href="https://soundcloud.com/serveny"><img src="https://img.shields.io/static/v1?message=SoundCloud&logo=soundcloud&label=&color=ff5500&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="soundcloud logo" /></a>
+  <a href="https://www.twitch.tv/serveny"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9147ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo" /></a>
 </div>
+    
+### 
 
+### hey there 👋
 
-###
+#### 👩‍💻 About Me
+
+I'm a web/application developer from Germany
+
+- 🔭 I’m working as **Full Stack Developer**
+- 📚 I'm currently studying **Applied Artificial Intelligence**
+- ⚡ In my free time I write games with **bevy engine**, hit the **gym**, make **music**, stream on **twitch** and a lot of other stuff
+
+#### 👩‍💻 Current projects
+
+ - [Mixxx Traktor S5 controller mappping](https://github.com/Serveny/mixxx-traktor-s5-mapping)
+ - [Mixxx Controls TypeScript types](https://github.com/mixxxdj/mixxx/pull/15441)
 
 ### ⚒️ Languages
 
@@ -86,11 +107,6 @@
 </div>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/serveny/serveny/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/serveny/serveny/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/serveny/serveny/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
