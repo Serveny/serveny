@@ -22,10 +22,12 @@ I'm a web/application developer from Germany
 - 📚 I'm currently studying **Applied Artificial Intelligence**
 - ⚡ In my free time I write games with **bevy engine**, hit the **gym**, make **music**, stream on **twitch** and a lot of other stuff
 
-#### 👩‍💻 Current projects
+#### 👩‍💻 Current project stack
 
- - [Mixxx Traktor S5 controller mappping](https://github.com/Serveny/mixxx-traktor-s5-mapping)
+ - [TypeScript Union Docs Plugin](https://github.com/Serveny/ts-union-type-docs-plugin)
  - [Mixxx Controls TypeScript types](https://github.com/mixxxdj/mixxx/pull/15441)
+ - [Mixxx Traktor S5 controller mappping](https://github.com/Serveny/mixxx-traktor-s5-mapping)
+ 
 
 ### ⚒️ Languages
 
