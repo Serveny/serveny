@@ -24,7 +24,8 @@ I'm a web/application developer from Germany
 
 #### 👩‍💻 Current project stack
 
- - [TypeScript Union Docs Plugin](https://github.com/Serveny/ts-union-type-docs-plugin)
+ - ✅ [VSCode TypeScript Union Docs Extension](https://github.com/Serveny/ts-union-docs-vscode-extension)
+ - [TypeScript Union Docs Plugin](https://github.com/Serveny/ts-union-docs-plugin)
  - [Mixxx Controls TypeScript types](https://github.com/mixxxdj/mixxx/pull/15441)
  - [Mixxx Traktor S5 controller mappping](https://github.com/Serveny/mixxx-traktor-s5-mapping)
  
