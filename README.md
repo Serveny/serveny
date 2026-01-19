@@ -8,6 +8,8 @@
   <a href="https://www.youtube.com/@Serveny"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" /></a>
   <a href="https://soundcloud.com/serveny"><img src="https://img.shields.io/static/v1?message=SoundCloud&logo=soundcloud&label=&color=ff5500&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="soundcloud logo" /></a>
   <a href="https://www.twitch.tv/serveny"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9147ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo" /></a>
+  <a href="https://bsky.app/profile/serveny.bsky.social"><img src="https://img.shields.io/static/v1?message=bluesky&logo=bluesky&label=&color=1185FE&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Bluesky logo" /></a>
+  <a href="https://x.com/dj_serveny"><img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="X logo" /></a>
 </div>
     
 ### 
