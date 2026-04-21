@@ -20,15 +20,15 @@
 
 I'm a web/application developer from Germany
 
-- 🔭 I’m working as **Full Stack Developer**
-- 📚 I'm currently studying **Applied Artificial Intelligence**
+- 🔭 I’m working as **Full Stack / AI Developer**
+- 📚 B.Sc. in Applied Artificial Intelligence
 - ⚡ In my free time I write games with **bevy engine**, hit the **gym**, make **music**, stream on **twitch** and a lot of other stuff
 
 #### 👩‍💻 Current project stack
 
  - ✅ [VSCode TypeScript Union Docs Extension](https://github.com/Serveny/ts-union-docs-vscode-extension)
- - [TypeScript Union Docs Plugin](https://github.com/Serveny/ts-union-docs-plugin)
- - [Mixxx Controls TypeScript types](https://github.com/mixxxdj/mixxx/pull/15441)
+ - ✅ [TypeScript Union Docs Plugin](https://github.com/Serveny/ts-union-docs-plugin)
+ - ✅ [Mixxx Controls TypeScript types](https://github.com/mixxxdj/mixxx/pull/15441)
  - [Mixxx Traktor S5 controller mappping](https://github.com/Serveny/mixxx-traktor-s5-mapping)
  
 
