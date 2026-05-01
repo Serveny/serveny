@@ -9,22 +9,21 @@
   <a href="https://soundcloud.com/serveny"><img src="https://img.shields.io/static/v1?message=SoundCloud&logo=soundcloud&label=&color=ff5500&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="soundcloud logo" /></a>
   <a href="https://www.twitch.tv/serveny"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9147ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo" /></a>
   <a href="https://bsky.app/profile/serveny.bsky.social"><img src="https://img.shields.io/static/v1?message=bluesky&logo=bluesky&label=&color=1185FE&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Bluesky logo" /></a>
-  <a href="https://x.com/dj_serveny"><img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="X logo" /></a>
 </div>
     
 ### 
 
 ### hey there 👋
 
-#### 👩‍💻 About Me
+#### About Me
 
 I'm a web/application developer from Germany
 
-- 🔭 I’m working as **Full Stack / AI Developer**
-- 📚 B.Sc. in Applied Artificial Intelligence
-- ⚡ In my free time I write games with **bevy engine**, hit the **gym**, make **music**, stream on **twitch** and a lot of other stuff
+- I’m working as **Full Stack / AI Developer**
+- B.Sc. in Applied Artificial Intelligence
+- In my free time I write games with **bevy engine**, hit the **gym**, make **music**, stream on **twitch** and a lot of other stuff
 
-#### 👩‍💻 Current project stack
+#### Current project stack
 
  - ✅ [VSCode TypeScript Union Docs Extension](https://github.com/Serveny/ts-union-docs-vscode-extension)
  - ✅ [TypeScript Union Docs Plugin](https://github.com/Serveny/ts-union-docs-plugin)
