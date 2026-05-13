@@ -19,7 +19,6 @@
 
 I'm a web/application developer from Germany
 
-- Full Stack / AI Developer
 - B.Sc. in Applied Artificial Intelligence
 - In my free time I write games with **bevy engine**, hit the **gym**, make **music**, stream on **twitch** and a lot of other stuff
 
