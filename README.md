@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/serveny/serveny/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/serveny/serveny/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/serveny/serveny/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/serveny/serveny/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/serveny/serveny/output/bomberman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/serveny/serveny/output/bomberman-contribution-graph.svg">
 </picture>
 
 <div align="center">
@@ -19,7 +19,7 @@
 
 I'm a web/application developer from Germany
 
-- I’m working as **Full Stack / AI Developer**
+- Full Stack / AI Developer
 - B.Sc. in Applied Artificial Intelligence
 - In my free time I write games with **bevy engine**, hit the **gym**, make **music**, stream on **twitch** and a lot of other stuff
 
