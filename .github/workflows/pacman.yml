@@ -17,7 +17,7 @@ jobs:
 
     steps:
       - name: generate bomberman-contribution-graph.svg
-        uses: serveny/pacman-contribution-graph@bomberman
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           games: bomberman
