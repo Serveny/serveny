@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 23 * * 6"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
@@ -16,20 +13,8 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      - name: checkout
-        uses: actions/checkout@v4
-
-      - name: setup pnpm
-        uses: pnpm/action-setup@v4
-
-      - name: install
-        run: pnpm install
-
-      - name: build
-        run: pnpm run build-action
-
       - name: generate contribution graph SVGs
-        uses: ./
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           games: bomberman
