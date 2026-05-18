@@ -16,8 +16,20 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      - name: generate bomberman-contribution-graph.svg
-        uses: serveny/pacman-contribution-graph@bomberman
+      - name: checkout
+        uses: actions/checkout@v4
+
+      - name: setup pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: install
+        run: pnpm install
+
+      - name: build
+        run: pnpm run build-action
+
+      - name: generate contribution graph SVGs
+        uses: ./
         with:
           github_user_name: ${{ github.repository_owner }}
           games: bomberman
