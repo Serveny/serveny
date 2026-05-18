@@ -33,7 +33,10 @@ jobs:
       - name: Install and Build Pacman Action
         run: |
           cd .github/actions/pacman-contribution-graph
-          pnpm install --frozen-lockfile
+          pnpm install
+          cd github-action
+          pnpm install
+          cd ..
           pnpm build-action
 
       - name: Generate contribution graph SVGs
