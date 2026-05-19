@@ -11,41 +11,13 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      - name: Checkout pacman action repository
-        uses: actions/checkout@v4
-        with:
-          repository: serveny/pacman-contribution-graph
-          ref: bomberman
-          path: .github/actions/pacman-contribution-graph
-
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v4
-        with:
-          version: '9'
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-          cache: 'pnpm'
-          cache-dependency-path: .github/actions/pacman-contribution-graph/pnpm-lock.yaml
-
-      - name: Install and Build Pacman Action
-        run: |
-          cd .github/actions/pacman-contribution-graph
-          pnpm install
-          cd github-action
-          pnpm install
-          cd ..
-          pnpm build-action
-
-      - name: Generate contribution graph SVGs
-        uses: ./.github/actions/pacman-contribution-graph
+      - name: generate contribution graph SVGs
+        uses: serveny/pacman-contribution-graph@bomberman
         with:
           github_user_name: ${{ github.repository_owner }}
           games: bomberman
 
-      - name: Push bomberman-contribution-graph.svg to the output branch
+      - name: push bomberman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
